@@ -26,7 +26,7 @@ git push[别名]{ 分支名}
 git clone 自动生成的地址
 
 从远程库拉取文件
-git pull {远程库地址别名} 【远程分支名】
+git pull {远程库地址} 【远程分支名】
 pull =fecth+merger
 1.使用git fecth 【仓库别名】 master 拉取远程库的内容
 1.使用git +merger【仓库别名】 master 合并远程库和本地库的内容
